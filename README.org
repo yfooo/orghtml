@@ -1,3 +1,0 @@
-#+TITLE: Orghtml
-
-Org mode export html static files.
