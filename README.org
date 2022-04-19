@@ -1,3 +1,0 @@
-#+TITLE: Orghtml
-
-Orghtml static branch.
